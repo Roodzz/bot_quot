@@ -6,6 +6,7 @@ import time
 import tkinter as tk
 from tkinter import scrolledtext
 
+
 API_TOKEN = 'SEU_TOKEN_AQUI'
 bot = telebot.TeleBot(API_TOKEN)
 
